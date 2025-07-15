@@ -1,5 +1,5 @@
 
-# README für PKMountGUI
+# PKMountGUI
 
 ## Beschreibung
 
