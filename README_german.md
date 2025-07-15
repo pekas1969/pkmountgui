@@ -8,6 +8,14 @@ Du kannst Mountpoints schnell mounten, unmounten, im Dateimanager öffnen oder e
 
 ---
 
+### Screenshots
+
+| Systray Menü                     |
+|--------------------------------|
+| ![Main Window](./screenshots/pkmountgui.png) |
+
+---
+
 ## Installation
 
 1. **Abhängigkeiten installieren**  
