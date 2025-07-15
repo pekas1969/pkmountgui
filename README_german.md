@@ -56,4 +56,5 @@ Du kannst Mountpoints schnell mounten, unmounten, im Dateimanager öffnen oder e
 
 ## Lizenz
 
-Dieses Projekt ist Open Source – nutze und passe es gern an deine Bedürfnisse an!
+(C)2025 Peter Kasparak under the MIT-Lizence
+This project is open source, do what you want.
